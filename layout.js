@@ -304,9 +304,9 @@
         </div>
         <div class="footer-column footer-contact">
             <h3>Contact Us</h3>
-            <p><strong>Email</strong><br><a href="mailto:support@assureinfo.com" style="color: inherit; text-decoration: none;">support@assureinfo.com</a></p>
+            <p><strong>Email</strong><br><a href="mailto:support@assureinfo.in" style="color: inherit; text-decoration: none;">support@assureinfo.in</a></p>
             <p><strong>Phone</strong><br><a href="tel:+917598232307" style="color: inherit; text-decoration: none;">+91 75982 32307</a></p>
-            <p><strong>Location</strong><br>No 104 Srivani Symphony, Apartment Thirupalya, Bommasandra Industrial Estate, Bangalore South, Bangalore, Karnataka - 560099.</p>
+            <p><strong>Location</strong><br>No 104 Srivani Symphony, Bommasandra Industrial Estate, Bangalore, Karnataka - 560099.</p>
         </div>
     </div>
     <div class="footer-bottom">
